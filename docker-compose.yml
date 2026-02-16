@@ -3,9 +3,9 @@ services:
     container_name: mysql-bsn
     image: mysql:8.0
     environment:
-      MYSQL_ROOT_PASSWORD: Gura@In
-      MYSQL_USER: root
-      MYSQL_PASSWORD: Gura@In
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: username
+      MYSQL_PASSWORD: password
       MYSQL_DATABASE: book_social_network
     volumes:
       - mysql:/var/lib/mysql
