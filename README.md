@@ -58,8 +58,6 @@ Book Social Network is a full-stack application that enables users to manage the
 
 ## Learning Objectives
 
-By following this project, students will learn:
-
 - Designing a class diagram from business requirements
 - Implementing a mono repo approach
 - Securing an application using JWT tokens with Spring Security
